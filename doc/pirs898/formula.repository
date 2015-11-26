@@ -1,0 +1,236 @@
+\form#0:$i$
+\form#1:$\vec{x}$
+\form#2:$\vec{u}$
+\form#3:$t$
+\form#4:$i_1, i$
+\form#5:$i_1$
+\form#6:$i_1, i_2, i$
+\form#7:$i_2$
+\form#8:$n-1$
+\form#9:$n$
+\form#10:$d$
+\form#11:$a_x x + a_y y + a_z z = d$
+\form#12:$^{125}$
+\form#13:$j$
+\form#14:$i + j n_{\rm max}$
+\form#15:$n_{\rm max}$
+\form#16:$q$
+\form#17:$E$
+\form#18:$w$
+\form#19:$\vec{x}, \vec{u}$
+\form#20:$A_{\rm wall}$
+\form#21:$A_{\rm pn}$
+\form#22:$A_{att}$
+\form#23:$A_{scat}$
+\form#24:$A_{eloss}$
+\form#25:$A_{ap}$
+\form#26:$A_{g}$
+\form#27:$A_{CPE}$
+\form#28:$A_{x}$
+\form#29:$E\times\left(\frac{\mu_{en}}{\rho}\right)_{air}$
+\form#30:$\left(\frac{\mu_{en}}{\rho}\right)_{air}$
+\form#31:$ K_{air}$
+\form#32:$R$
+\form#33:$\displaystyle e^-/e^+$
+\form#34:$\displaystyle N(T)$
+\form#35:$\displaystyle T_{initial}$
+\form#36:$\displaystyle T_{initial} - EDEP$
+\form#37:\[ \frac{d\phi}{dT}=\frac{N(T)}{\left(\frac{L}{\rho}\right)_{col}} \]
+\form#38:${\displaystyle \left(\frac{L}{\rho}\right)_{col}}$
+\form#39:$N_{\rm split} = N_0/(1 - \exp(-\Lambda))$
+\form#40:$\Lambda$
+\form#41:$N_0 \ge 5$
+\form#42:$N_{\rm split}$
+\form#43:$1/N_r$
+\form#44:$N_r$
+\form#45:$E_{\rm save}$
+\form#46:$t_\perp$
+\form#47:$R \le t_\perp$
+\form#48:$N_r=1$
+\form#49:$s_{i}$
+\form#50:$- ln \frac{R_i}{b_i}$
+\form#51:$b_i$
+\form#52:$R_i$
+\form#53:$90^{o}$
+\form#54:$360^o$
+\form#55:$2^o$
+\form#56:$E\cdot\left(\frac{\mu_{en}}{\rho}\right)$
+\form#57:$90^o$
+\form#58:$Katt$
+\form#59:$Kscat$
+\form#60:$Ktot$
+\form#61:$N_p$
+\form#62:$1/N_s$
+\form#63:$N_s$
+\form#64:$C_j$
+\form#65:$\bar{K}_j$
+\form#66:$\bar{K}$
+\form#67:$N_p^i$
+\form#68:$C_j \cdot N_{\rm p}$
+\form#69:$K_a/\bar{K}_{att}$
+\form#70:$\bar{K}_{att}$
+\form#71:$K_a$
+\form#72:$Ka/\bar{K}_{att} \cdot f_{split}$
+\form#73:$K_a(j)/K_a(i) \cdot N_s$
+\form#74:$\ne$
+\form#75:$P_{cel}$
+\form#76:$P_{wall}$
+\form#77:$A_x$
+\form#78:$A_{b}$
+\form#79:$n = \sum_i \left(ire_{i} - iri_{i}\right)$
+\form#80:$\sum f_i \delta(x - x_i)$
+\form#81:$\delta$
+\form#82:$x_i$
+\form#83:$x_{i+1}$
+\form#84:$f_i$
+\form#85:$x_i,f_i$
+\form#86:$x_{i+1},f_{i+1}$
+\form#87:$u_z$
+\form#88:$\phi$
+\form#89:$2 \pi$
+\form#90:$ u_x = \sqrt{1 - u_z^2} \cos \phi, u_y = \sqrt{1 - u_z^2} \sin \phi$
+\form#91:$x'_z, \sqrt{x_x^{\prime 2} + x_y^{\prime 2}}$
+\form#92:$\vec{x}' = \vec{x} - \vec{x}_0$
+\form#93:$\vec{x}'$
+\form#94:$2 \pi $
+\form#95:$\vec{u}=(\vec{x}' - \vec{x})/|\vec{x}' - \vec{x}|$
+\form#96:$T$
+\form#97:$(\vec{x}-\vec{x}_0)/|\vec{x}-\vec{x}_0|$
+\form#98:$E_0$
+\form#99:$E < E_0$
+\form#100:$E_i$
+\form#101:$p_i$
+\form#102:$E_i ... E_{i+1}$
+\form#103:$N$
+\form#104:$N+1$
+\form#105:$E_{\rm max}$
+\form#106:$T = (R,\vec{t})$
+\form#107:$\vec{t}$
+\form#108:$T \vec{x} = R \vec{x} + \vec{t}$
+\form#109:$ R R^T$
+\form#110:$ R^T$
+\form#111:$R_x(\alpha) R_y(\beta) R_z(\gamma)$
+\form#112:$R_z(\phi) R_x(\theta)$
+\form#113:$ R \cdot \vec{v}$
+\form#114:$ R \cdot M \ne R \cdot M$
+\form#115:$ \cos(\phi), \sin(\phi)$
+\form#116:$T_1=(R_1,\vec{t_1})$
+\form#117:$T_2=(R_2,\vec{t_2})$
+\form#118:$T=(R,\vec{t})$
+\form#119:$T_1$
+\form#120:$T_2$
+\form#121:$ R = R_2 \cdot R_1$
+\form#122:$ t = R_2 \cdot \vec{t}_1 + \vec{t}_2$
+\form#123:$ (R \cdot m, \vec{t})$
+\form#124:$\theta$
+\form#125:$R_{xx}, R_{xy}, R_{xz}, R_{yx}, R_{yy}, R_{yz}, R_{zx} R_{zy}, R_{zz}$
+\form#126:$G_B$
+\form#127:$n_B$
+\form#128:$G_0, G_1, ..., G_{n_B-1}$
+\form#129:$N-1$
+\form#130:$G_j$
+\form#131:$j n_{\rm max} + i$
+\form#132:$j n_{\rm max} + i'$
+\form#133:$i'$
+\form#134:$j'$
+\form#135:$j' n_{\rm max} + i'$
+\form#136:$G_{j'}$
+\form#137:$\vec{a} \cdot (\vec{x} - \vec{x}_0)$
+\form#138:$\vec{a}$
+\form#139:$\vec{x}_0$
+\form#140:$2 N$
+\form#141:$0,1,...,N-1$
+\form#142:$N+1, N+2, ..., 2 N$
+\form#143:$2 N + 1$
+\form#144:$G_i, i=1,...,N$
+\form#145:$n_1, n_2, ..., n_N$
+\form#146:$i_j$
+\form#147:$n_B + n_{\rm max} (j-1) + i_j$
+\form#148:$n_B + n_{\rm max} N$
+\form#149:$n_B + n_1 + \cdots n_N$
+\form#150:$j+1$
+\form#151:$j-1$
+\form#152:$\epsilon$
+\form#153:$T(R,\vec{t})$
+\form#154:$\vec{x}' = R \vec{x} + \vec{t}$
+\form#155:$ i \Delta \phi, ~\Delta \phi = 2 \pi/N$
+\form#156:$\phi_0 + i \Delta \phi$
+\form#157:$\phi_0 + (i+1) \Delta \phi$
+\form#158:$\phi_o$
+\form#159:$\phi_0 = 0$
+\form#160:$\phi_0$
+\form#161:$\Delta \phi$
+\form#162:$n_x+1$
+\form#163:$n_y+1$
+\form#164:$n_z+1$
+\form#165:$n_x \cdot n_y \cdot n_z$
+\form#166:$i+1$
+\form#167:$k$
+\form#168:$i + n_x j + n_x \cdot n_y \cdot k$
+\form#169:$t_x$
+\form#170:$t_y$
+\form#171:$t_z$
+\form#172:$t_x, t_y$
+\form#173:$n_r$
+\form#174:$n_z \cdot n_r$
+\form#175:$i + n_z \cdot j$
+\form#176:$t_r$
+\form#177:$G_0, G_1, ..., G_{N-1}$
+\form#178:$n_0, n_1, ..., n_{N-1}$
+\form#179:$n_0 \cdot n_1 \cdot ... \cdot n_{N-1}$
+\form#180:$G_0, ..., G_{N-1}$
+\form#181:$i_0, i_1, ..., i_{N-1}$
+\form#182:\[ i = \sum_{j=0}^{N-1} i_j m_j~, \quad m_0 = 1~,~~~m_1 = n_0,~~~m_2 = n_0 n_1, ~~~ \cdots ~~~ m_i = m_{i-1} n_{i-1}~, \]
+\form#183:$t_1,...,t_N$
+\form#184:$i + m_j$
+\form#185:$t_j$
+\form#186:$\vec{x} + \vec{u} t_j$
+\form#187:\begin{equation} \label{tperp_ortho} t_\perp = \sqrt{ \sum_{j} t_{\perp, j}^2 }~. \end{equation}
+\form#188:$\sqrt{t_{\perp,y}^2 + t_{\perp,z}^2}$
+\form#189:$t_{\perp,y}$
+\form#190:$t_{\perp,z}$
+\form#191:$\sqrt{t_{\perp,x}^2 + t_{\perp,y}^2 + t_{\perp,z}^2}$
+\form#192:$N_x \times N_y \times N_z$
+\form#193:$N_x \times N_y \times N_z \times N_r + 1$
+\form#194:$N_x \times N_y \times N_z \times N_r$
+\form#195:$-Delta x/2 \cdots Delta x/2, -Delta y/2 \cdots Delta y/2,-Delta z/2 \cdots Delta z/2$
+\form#196:$\Delta x$
+\form#197:$\vec{x} \cdot \vec{a}$
+\form#198:$\vec{u} \cdot \vec{a}$
+\form#199:$ \vec{a} \cdot \vec{x} = p_i$
+\form#200:$N=1$
+\form#201:$3 N$
+\form#202:$0...n_B-1$
+\form#203:$n_B+j,j=0,...,n_1-1$
+\form#204:$n_1$
+\form#205:$n_B+n_1+j,j=0,...,n_2-1$
+\form#206:$n_2$
+\form#207:$G_1$
+\form#208:$G_2$
+\form#209:$G_1, G_2,..., G_N$
+\form#210:$G_i$
+\form#211:$i < j$
+\form#212:$p_j$
+\form#213:$O_j$
+\form#214:$p_{j+1}$
+\form#215:$\sim$
+\form#216:$M_x \times M_y \times M_z$
+\form#217:$M_x, M_y, M_z$
+\form#218:$N_x, N_y, N_z$
+\form#219:$M_x \times M_y \times M_z \times N_x \times N_y \times N_z$
+\form#220:$\Delta z$
+\form#221:$z_1$ and $z_2$
+\form#222:$\Delta \vec{x} = (\Delta x, \Delta y, \Delta z)$
+\form#223:$\Delta x, \Delta y$
+\form#224:$\sigma_x, \sigma_y$
+\form#225:$\sigma_z$
+\form#226:$\sigma_y = \sigma_z = 0$
+\form#227:$\sigma_z = 0$
+\form#228:$s_1, s_2, ..., s_n$
+\form#229:$s_j$
+\form#230:$\vec{u}=(\vec{x}'-\vec{x})/|\vec{x}'-\vec{x}|$
+\form#231:$\vec{x}'-\vec{x}$
+\form#232:$4 \pi$
+\form#233:$s_1, s_2, ..., s_N$
+\form#234:$w_1, w_2, ..., w_N$
+\form#235:$w_j$
