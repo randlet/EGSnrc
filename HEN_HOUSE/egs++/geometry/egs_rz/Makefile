@@ -14,24 +14,25 @@ library = egs_rz
 lib_files = egs_rz
 link2_libs = egspp egs_planes egs_cylinders egs_ndgeometry
 
-all: ndgeom planes cyls $(DSO2)$(libpre)$(library)$(libext)
+.PHONY: ndgeom cyls planes clean
 
 include $(SPEC_DIR)egspp_libs.spec
 
-ndgeom: planes
-	cd ..$(DSEP)egs_nd_geometry$(DSEP) && make
-
-planes:
-	cd ..$(DSEP)egs_planes$(DSEP) && make
-
-cyls:
-	cd ..$(DSEP)egs_cylinders$(DSEP) && make
-
 $(make_depend)
 
-clean:
-	rm -f $(ABS_DSO)$(libpre)egs_rz$(libext)
-	rm -f $(DSO2)egs_rz.$(obje)
+$(DSO2)$(library).$(obje): ndgeom cyls planes
 
-.PHONY: all clean
-.DEFAULT: all
+$(ABS_DSO)$(libpre)$(library)$(libext): ndgeom cyls planes
+
+ndgeom:
+	cd ..$(DSEP)egs_nd_geometry && make
+
+cyls:
+	cd ..$(DSEP)egs_cylinders && make
+
+planes:
+	cd ..$(DSEP)egs_planes && make
+
+clean:
+	rm -f $(ABS_DSO)$(libpre)$(library)$(libext)
+	rm -f $(DSO2)$(library).$(obje)
